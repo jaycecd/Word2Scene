@@ -69,7 +69,7 @@ You can download our pretrained models for a quick look.
 
 Please cite the following paper if you find it useful for your research:
 ```
-@article{txt2img_mhn,
+@article{ren2024word2scene,
   title={Word2Scene: Efficient remote sensing scene generation with only one word via hybrid intelligence and low-rank representation},
   author={Jiaxin Ren, Wanzeng Liu, Jun Chen, Shunxi Yin, and Yuan Tao},
   year={2024}
