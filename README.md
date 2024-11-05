@@ -58,6 +58,8 @@ Click the `Generate` button to create the corresponding remote sensing image:
 
 ![](images/Word2Scene-GUI.png)
 
+![](images/GUI.gif)
+
 #### 2.1. Instructions for Obtaining Model Weights <a name="download"></a>
 
 In order to track and manage the model, and to better support and improve this project, we are not publicly releasing the model weight files directly at this time. If you need to use Word2Scene, please apply to obtain it by following the steps below:
