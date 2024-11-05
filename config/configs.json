@@ -1,0 +1,13 @@
+[server]
+name=127.0.0.1
+port=8888
+
+[generate]
+user_locale = en
+host = 127.0.0.1
+port = 7860
+sampler = DDIM
+steps = 30
+prompt =
+negative_prompt =
+
