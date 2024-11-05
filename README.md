@@ -75,19 +75,19 @@ Please include the following in your email:
 
 ---
 
-- **Name** : [Your full name]
+_Name: [Your full name]_
  
-- **Institution** : [Your institution or organization name]
+_Institution: [Your institution or organization name]_
  
-- **Position** : [Your position or role, e.g., PhD student, researcher, etc.]
+_Position: [Your position or role, e.g., PhD student, researcher, etc.]_
  
-- **Research Field** : [Briefly describe your research field]
+_Research Field: [Briefly describe your research field]_
  
-- **Intended Use** : [Briefly explain the intended use of the model weights]
+_Intended Use: [Briefly explain the intended use of the model weights]_
  
-- **Contact Email** : [Your email address]
+_Contact Email: [Your email address]_
 
-I hereby commit to using the model weights solely for scientific research purposes, not for any commercial use, and to comply with the relevant provisions of the open-source license. Furthermore, I understand that any problems or losses arising during the use of the model are my own responsibility, and the authors are exempt from liability (after all, if the model behaves mischievously, even the authors can't control it).
+_I hereby commit to using the model weights solely for scientific research purposes, not for any commercial use, and to comply with the relevant provisions of the open-source license. Furthermore, I understand that any problems or losses arising during the use of the model are my own responsibility, and the authors are exempt from liability (after all, if the model behaves mischievously, even the authors can't control it)._
 
 ---
 
