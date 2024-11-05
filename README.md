@@ -6,6 +6,8 @@
 ### :fire: Updates
 * **[2024.11.03]** We have released the evaluation script and pre-trained model for GSHPS, feel free to try it out.
 
+![](images/GUI.mp4)
+
 ### :star: Visualization
 [Word2Scene GUI](https://github.com/jaycecd/Word2Sence/assets/33342388/b6e17e54-311c-4f65-b7bd-f8cfee248e68)
 
