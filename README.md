@@ -6,8 +6,6 @@
 ### :fire: Updates
 * **[2024.11.03]** We have released the evaluation script and pre-trained model for GSHPS, feel free to try it out.
 
-![](images/GUI.mp4)
-
 ### :star: Visualization
 [Word2Scene GUI](https://github.com/jaycecd/Word2Sence/assets/33342388/b6e17e54-311c-4f65-b7bd-f8cfee248e68)
 
@@ -58,9 +56,8 @@ In `Word2Scene GUI`, input any textual description or scene concept for the remo
 
 Click the `Generate` button to create the corresponding remote sensing image:
 
-![](images/Word2Scene-GUI.png)
+![](images/Word2Scene-GUI.gif)
 
-![](images/GUI.gif)
 
 #### 2.1. Instructions for Obtaining Model Weights <a name="download"></a>
 
