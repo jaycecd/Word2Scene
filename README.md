@@ -174,9 +174,6 @@ python calculate_gshps.py --ref path/to/reference_images/ --gen path/to/generate
 ![](images/Different-epochs-and-strengths.jpg)
 
 
-You can download our models for a quick look.
-  - Word2Scene: [Baidu NetDisk](https://pan.baidu.com/s/1mJb9A2SS8evjGPjYJqn8BA)
-
 ### 5.Interpretability of Word2Scene <a name="interpretability"></a>
 - **How does textual input specifically influence the outcome of scene generation?**
 
@@ -186,14 +183,20 @@ You can download our models for a quick look.
 
 
 ### 6.Paper <a name="paper"></a>
-**[Word2Scene: Efficient remote sensing image scene generation with only one word via hybrid intelligence and low-rank representation]()**
+**[Word2Scene: Efficient remote sensing image scene generation with only one word via hybrid intelligence and low-rank representation](https://www.sciencedirect.com/science/article/pii/S0924271624004106)**
 
 Please cite the following paper if you find it useful for your research:
 ```
-@article{ren2024word2scene,
-  title={Word2Scene: Efficient remote sensing scene generation with only one word via hybrid intelligence and low-rank representation},
-  author={Jiaxin Ren, Wanzeng Liu, Jun Chen, Shunxi Yin, and Yuan Tao},
-  year={2024}
+@article{REN2024231,
+title = {Word2Scene: Efficient remote sensing image scene generation with only one word via hybrid intelligence and low-rank representation},
+journal = {ISPRS Journal of Photogrammetry and Remote Sensing},
+author = {Jiaxin Ren and Wanzeng Liu and Jun Chen and Shunxi Yin and Yuan Tao},
+volume = {218},
+pages = {231-257},
+year = {2024},
+issn = {0924-2716},
+doi = {https://doi.org/10.1016/j.isprsjprs.2024.11.002},
+url = {https://www.sciencedirect.com/science/article/pii/S0924271624004106}
 }
 ```
 
