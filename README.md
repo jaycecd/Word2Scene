@@ -4,8 +4,7 @@
 ![](images/Flowchart.png)
     
 ### :fire: Updates
-* **[2024.12.11]** We have released the weight file of Word2Scene, please follow the steps below to get it: 
-  * [2.1. Instructions for Obtaining Model Weights](#download)
+* **[2024.12.11]** We have released the weight file of Word2Scene, please follow the steps below to get it: [2.1. Instructions for Obtaining Model Weights](#download)
 * **[2024.11.03]** We have released the evaluation script and pre-trained model for GSHPS, feel free to try it out.
 
 ### :star: Visualization
