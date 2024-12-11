@@ -4,6 +4,8 @@
 ![](images/Flowchart.png)
     
 ### :fire: Updates
+* **[2024.12.11]** We have released the weight file of Word2Scene, please follow the steps below to get it: 
+  * [2.1. Instructions for Obtaining Model Weights](#download)
 * **[2024.11.03]** We have released the evaluation script and pre-trained model for GSHPS, feel free to try it out.
 
 ### :star: Visualization
@@ -185,7 +187,9 @@ python calculate_gshps.py --ref path/to/reference_images/ --gen path/to/generate
 ### 6.Paper <a name="paper"></a>
 **[Word2Scene: Efficient remote sensing image scene generation with only one word via hybrid intelligence and low-rank representation](https://www.sciencedirect.com/science/article/pii/S0924271624004106)**
 
-Please cite the following paper if you find it useful for your research:
+If you find it useful, we kindly request that you leave a star on our GitHub repository. 
+
+Should you incorporate Word2Scene into your research, please cite the Word2Scene article:
 ```
 @article{REN2024231,
 title = {Word2Scene: Efficient remote sensing image scene generation with only one word via hybrid intelligence and low-rank representation},
