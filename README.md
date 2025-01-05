@@ -204,10 +204,10 @@ url = {https://www.sciencedirect.com/science/article/pii/S0924271624004106}
 ```
 
 ### 7.Acknowledgement <a name="acknowledgement"></a>
-+ [Stable Diffusion web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui). A web interface for Stable Diffusion, implemented using Gradio library. We use it to load the generated LoRA model and generate remote sensing scenes.
-+ [Stable Diffusion](https://github.com/CompVis/stable-diffusion). Stable Diffusion is a latent text-to-image diffusion model. We use it to generate the text-to-image samples.
-+ [BLIP](https://github.com/salesforce/BLIP). A model that unifies the framework for visual-language pre-training and fine-tuning, enabling multimodal learning and cross-modal understanding. 
 + [LoRA](https://github.com/microsoft/LoRA). This repo contains the source code of the Python package loralib and several examples of how to integrate it with PyTorch models.
++ [BLIP](https://github.com/salesforce/BLIP). A model that unifies the framework for visual-language pre-training and fine-tuning, enabling multimodal learning and cross-modal understanding. 
++ [Stable Diffusion](https://github.com/CompVis/stable-diffusion). Stable Diffusion is a latent text-to-image diffusion model. We use it to generate the text-to-image samples.
++ [Stable Diffusion web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui). A web interface for Stable Diffusion, implemented using Gradio library. We use it to load the generated LoRA model and generate remote sensing scenes.
 
 
 ### 8.License <a name="license"></a>
