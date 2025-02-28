@@ -75,6 +75,7 @@ This is an ongoing project. In order to track and manage the model, and to bette
 Please include the following in your email:
 
 ---
+_Subject: [Obtaining Word2Scene Model Weights]_
 
 _Name: [Your full name]_
  
