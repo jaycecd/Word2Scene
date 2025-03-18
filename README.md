@@ -4,7 +4,7 @@
 ![](images/Flowchart.png)
     
 
-## This is an ongoing project, and we will continuously enhance the model's performance. Click the "Star" in the top right corner to stay updated with the latest model and code!
+This is an ongoing project, and we will continuously enhance the model's performance. Click the "Star" in the top right corner to stay updated with the latest model and code!
 
 
 ### :fire: Updates
