@@ -4,8 +4,7 @@
 ![](images/Flowchart.png)
     
 
-This is an ongoing project, and we will continuously enhance the model's performance. Click the "Star" in the top right corner to stay updated with the latest model and code!
-### :fire: Updates
+This is an ongoing project. We will continuously enhance the model's performance. Click the **Star** in the top right corner to follow us and stay updated with the latest models and code!### :fire: Updates
 * **[2024.12.11]** We have released the weight file of Word2Scene, please follow the steps below to get it: [2.1. Instructions for Obtaining Model Weights](#download)
 * **[2024.11.03]** We have released the evaluation script and pre-trained model for GSHPS, feel free to try it out.
 
